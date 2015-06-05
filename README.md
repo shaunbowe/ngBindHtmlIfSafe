@@ -1,5 +1,6 @@
 # ngBindHtmlIfSafe
-Similar to ng-bind-html but displays plain text if html is invalid
+If the html passed is valid it will be displayed. If it is not valid it will display as plain text instead of the angular error:
+[$sanitize:badparse] The sanitizer was unable to parse the following block of html
 
 Usage:
 ```html
