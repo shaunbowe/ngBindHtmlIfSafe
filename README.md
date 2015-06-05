@@ -6,3 +6,5 @@ Usage:
 ```html
 <div ng-bind-html-if-safe="SomeHtml"></div>
 ```
+Try it here:
+http://plnkr.co/edit/YIMJ8G
